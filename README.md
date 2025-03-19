@@ -12,3 +12,8 @@ Identifier les tendances de consommation alimentaire des differents  pays.
 1. Nettoyage des données
 2. Analyse des consommations cerealieres et de  proteines
 3. Visualisation avec Matplotlib des consommations  pays et  de regions
+
+## Algorythmes  utilisés
+-Python et ses  librairies  de data science : pandas, seaborn, matplotlib
+-SQL: sqlite
+-Notebook: Jupyter anaconda
